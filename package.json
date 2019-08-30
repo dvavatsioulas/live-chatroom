@@ -1,0 +1,13 @@
+{
+  "name": "live-chatroom",
+  "version": "0.0.1",
+  "description": "A live chatroom made with socket.io",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.19.1",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
